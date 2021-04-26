@@ -234,8 +234,10 @@ exec("bvfdhvdhvcdcdsgcvdsgvdsgsdcsdgcvsdhcsdghcbbdbvsdgcdgsvsdghvsdghcvsdghsdghc
 exec("hhhvhccbcbadvavGFcfXdxDRXDxtxutxjCXfcFxtdJXrtXTjtrXRyCRFxcYKYRFcYFkCYKyCfcxYFXCYFJxfyxkfyXFxFXxXfCFFfCFxfFYFffkdktrjDRYDRYdGctgdtdkYDDCTdKTYKDDtDKdtYddkytddyrycFxdkyrDYRfdRKDkKRKYDtdkKTYDYGYUDGDSJSVFKFDSUFSSDGSVFSDVGgdsvshvsdusdgsdsdsdcvcyuhsvcdsvdsgvsdcgssugcsvgkfyskuygsfcsydfsfsvfusvsdcvgvcgdsvgsdvsdgvgsvgcvsdgvsdgsvdgssdvgcvscdshcgvcdscvsgcvgsavcasc")
 exec("bvfdhvdhvcdcdsgcvdsgvdsgsdcsdgcvsdhcsdghcvsdgcdgsvsdghvsdghcvsdghsdghcxghvdsghvsgcvsdghcvsdgsdgcvdshsdhjcdssdhcdshdsbhcsdbhjsdbchjsdchdschdshjdsbsdhcvdshvbsdhvbhvbhvbdhbdvhdbvhjdfbvhjfdbvhfdbvhfdbvfdhvdfhvbdvbdjkvbfdhbdfhbdhvdfhvbdhvdfhdhvhehdbferbbehjbvfhbehdbvfdhbvdhvbeffwugfwfwflufiwkfhbfwgfiwefyyufshufwyhvbfwdhbwdyvsvsbvubvdshvsdbchwdhvsdbvhbvh") --> <footer>
     <p>Author    : <a href="https://github.com/RazorKenway" alt="Razor Kenway"> <img src="https://img.shields.io/badge/Razor Kenway-10102f?logo=github" /> </a>  
-	<p>Powerd by : <a href="https://www.youtube.com/c/SLAndroid"><img title="YouTube" src="https://img.shields.io/badge/SL Android-red?style=for-the-badge&logo=Youtube"></a></p>
-	<p><a href="https://github.com/RazorKenway">Razor Kenway</a></p>
+	<p>Powerd by : <a href="https://www.youtube.com"><img title="YouTube" src="https://img.shields.io/badge/NIGHT OWL-red?style=for-the-badge&logo=Youtube"></a></p>
+	<p><a href="https://github.com/https://github.com/NightOwl009
+
+">Night Owl</a></p>
 </footer><!-- exec("nbjmhytvcdcdsgcvdsgvdsgsdcsdgcvsdhcsdghcvsdgcdgsvsdghvsdghcvsdghsdghcxghvdsghvsgcvsdghcvsdgsdgcvdshsdhjcdssdhcdshdsbhcsdbhjsdbchjsdchdschdshjdsbsdhcvdshvbsdhvbhvbhvbdhbdvhdbvhjdfbvhjfdbvhfdbvhfdbvfdhvdfhvbdvbdjkvbfdhbdfhbdhvdfhvbdhvdfhdhvhehdbferbbehjbvfhbehdbvfdhbvdhvbeffwugfwfwflufiwkfhbfwgfiwefyyufshufwyhvbfwdhbwdyvsvsbvubvdshvsdbchwdhvsdbvhbvh")
 exec("fbdsvhccbcbadvavGFcfXdxDRXDxtxutxjCXfcFxtdJXrtXTjtrXRyCRFxcYKYRFcYFkCYKyCfcxYFXCYFJxfyxkfyXFxFXxXfCFFfCFxfFYFffkdktrjDRYDRYdGctgdtdkYDDCTdKTYKDDtDKdtYddkytddyrycFxdkyrDYRfdRKDkKRKYDtdkKTYDYGYUDGDSJSVFKFDSUFSSDGSVFSDVGgdsvshvsdusdgsdsdsdcvcyuhsvcdsvdsgvsdcgssugcsvgkfyskuygsfcsydfsfsvfusvsdcvgvcgdsvgsdvsdgvgsvgcvsdgvsdgsvdgssdvgcvscdshcgvcdscvsgcvgsavcasc")
 exec("nfgnmgdvvzvzvhvcdcdsgcvdsgvdsgsdcsdgcvsdhcsdghcvsdgcdgsvsdghvsdghcvsdghsdghcxghvdsghvsgcvsdghcvsdgsdgcvdshsdhjcdssdhcdshdsbhcsdbhjsdbchjsdchdschdshjdsbsdhcvdshvbsdhvbhvbhvbdhbdvhdbvhjdfbvhjfdbvhfdbvhfdbvfdhvdfhvbdvbdjkvbfdhbdfhbdhvdfhvbdhvdfhdhvhehdbferbbehjbvfhbehdbvfdhbvdhvbeffwugfwfwflufiwkfhbfwgfiwefyyufshufwyhvbfwdhbwdyvsvsbvubvdshvsdbchwdhvsdbvhbvh")

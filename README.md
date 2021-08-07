@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **dilshanshehara340@gmail.com**
 
-- ⚡ **I am always be happy😊.**
+- ⚡ **I am always be happy😊**
 
 ## 🚀 Languages and Tools:
 

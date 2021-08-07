@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **dilshanshehara340@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ **I am always happy😊.**
 
 ## 🚀 Languages and Tools:
 

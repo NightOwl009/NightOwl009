@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nightowl009&label=Profile%20views&color=0e75b6&style=flat" alt="nightowl009" /> </p>
 
-<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://avatars.githubusercontent.com/u/83051247)"><img src="https://github-profile-trophy.vercel.app/?username=nightowl009" alt="nightowl009" /></a> </p>
+<p align="left"> <a href="https://avatars.githubusercontent.com/u/83051247"><img src="https://github-profile-trophy.vercel.app/?username=nightowl009" alt="nightowl009" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/nightowl009" target="blank"><img src="https://img.shields.io/twitter/follow/nightowl009?logo=twitter&style=for-the-badge" alt="nightowl009" /></a> </p>
 

@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manisha Dilshan</h1>
 <h3 align="center">Cyber Security Researcher from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207">
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nightowl009&label=Profile%20views&color=0e75b6&style=flat" alt="nightowl009" /> </p>
 
-<p align="left"> <a href="https://avatars.githubusercontent.com/u/83051247"><img src="https://github-profile-trophy.vercel.app/?username=nightowl009" alt="nightowl009" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nightowl009" alt="nightowl009" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/nightowl009" target="blank"><img src="https://img.shields.io/twitter/follow/nightowl009?logo=twitter&style=for-the-badge" alt="nightowl009" /></a> </p>
 
